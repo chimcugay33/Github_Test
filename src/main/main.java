@@ -5,6 +5,7 @@ import javax.swing.*;
 import java.awt.*;
 public class main {
      public static void main (String args[]) {
+    	 System.out.println("dit me thang cac");
     	 Scanner sc = new Scanner(System.in);
     	 Random rand = new Random();
     	 int[] a = new int[1001];
